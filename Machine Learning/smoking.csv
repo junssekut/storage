@@ -1,4 +1,4 @@
-"""id"",""gender"",""age"",""marital_status"",""highest_qualification"",""nationality"",""ethnicity"",""gross_income"",""region"",""smoke"",""amt_weekends"",""amt_weekdays"",""type"""
+",""gender"",""age"",""marital_status"",""highest_qualification"",""nationality"",""ethnicity"",""gross_income"",""region"",""smoke"",""amt_weekends"",""amt_weekdays"",""type"""
 "1,""Male"",38,""Divorced"",""No Qualification"",""British"",""White"",""2,600 to 5,200"",""The North"",""No"",NA,NA,"""""
 "2,""Female"",42,""Single"",""No Qualification"",""British"",""White"",""Under 2,600"",""The North"",""Yes"",12,12,""Packets"""
 "3,""Male"",40,""Married"",""Degree"",""English"",""White"",""28,600 to 36,400"",""The North"",""No"",NA,NA,"""""
